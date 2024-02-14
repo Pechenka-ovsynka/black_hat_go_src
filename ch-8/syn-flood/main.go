@@ -1,5 +1,5 @@
 package main
-
+# not secret
 import (
 	"fmt"
 	"log"
